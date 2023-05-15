@@ -1,1 +1,3 @@
-module 
+module sevenSegmentes;
+
+endmodule
